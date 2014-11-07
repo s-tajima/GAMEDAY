@@ -8,6 +8,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/vendor/
+/configs/*
+!/configs/*sample.yml
 
 ## Specific to RubyMotion:
 .dat*
