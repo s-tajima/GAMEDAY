@@ -27,5 +27,4 @@ $config[:regions].each do |region|
     result.delete(:request_id)
     puts JSON.pretty_generate(result.data)
   end
-  exit
 end
